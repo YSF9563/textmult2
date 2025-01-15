@@ -22,7 +22,7 @@ function App() {
     <div className="App bg-gray-900 h-screen text-black flex flex-col items-center justify-center ">
       <BsChatLeftTextFill className="bg-transparent w-[50px] h-[50px] absolute top-[385px] right-[820px] "></BsChatLeftTextFill>
       <PiArrowsCounterClockwiseFill className="bg-transparent w-[50px] h-[50px] absolute top-[470px] right-[820px]" />
-      <h1 className="mb-[20px] text-violet-800 text-[35px] justify-center font-bold absolute top-[30%] ">Text Multiplier for Sarah </h1>
+      <h1 className="mb-[20px] text-violet-800 text-[25px] justify-center font-bold absolute top-[25%] ">Text Multiplier for Sarah </h1>
       <input
         type="text"
         className="mt-1 pl-3 py-2 w-[300px] h-[80px] flex"
